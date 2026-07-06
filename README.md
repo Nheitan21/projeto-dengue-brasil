@@ -47,7 +47,7 @@ Dataset público contendo registros de casos de dengue por estado no Brasil ao l
 ## 📈 Dashboard
 A visualização dos dados foi feita no Looker Studio:
 
-🔗 [COLE AQUI O LINK DO SEU DASHBOARD]
+🔗 [https://datastudio.google.com/reporting/6b3cdd06-4f10-49f7-9f99-a1f0c05abb12]
 
 ---
 
