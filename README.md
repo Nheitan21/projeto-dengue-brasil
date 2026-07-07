@@ -29,10 +29,13 @@ Os dados utilizados neste projeto foram obtidos na plataforma **Kaggle**, por me
 - Tipo dos dados: Estruturados
 - Método de coleta: Download direto da plataforma Kaggle
 
-Link da base:
+Link da base de dados:
 
 https://www.kaggle.com/datasets/ai-ml-tsf/dengue-brasil
 
+Período analisado: janeiro de 2000 a dezembro de 2019.
+
+Os dados apresentam registros mensais de casos de dengue para os estados brasileiros, permitindo análises temporais e comparações entre diferentes regiões do país.
 ---
 
 ## Coleta dos Dados
@@ -126,7 +129,13 @@ O painel apresenta:
 
 ## Conclusão
 
-A análise exploratória permitiu compreender o comportamento da dengue ao longo dos anos e identificar os estados mais afetados.
+A análise exploratória permitiu identificar diferenças significativas na incidência da dengue entre os estados brasileiros durante o período de 2000 a 2019.
+
+São Paulo apresentou o maior número de casos registrados (2.535.416), seguido por Minas Gerais (2.285.503) e Rio de Janeiro (1.412.425). Juntos, esses três estados concentram aproximadamente **48,33%** de todos os casos registrados na base de dados, demonstrando uma forte concentração da doença em determinadas regiões do país.
+
+Também foi observado que o ano de **2015** registrou o maior número de casos (1.700.248), seguido por **2019** e **2016**, indicando períodos epidêmicos mais intensos. Em contrapartida, estados como Rio Grande do Sul e Santa Catarina apresentaram os menores registros durante o período analisado.
+
+Esses resultados mostram que a análise de dados é uma ferramenta essencial para identificar regiões prioritárias, acompanhar a evolução da doença ao longo do tempo e subsidiar políticas públicas voltadas ao combate da dengue. A utilização de técnicas de análise exploratória permite transformar dados em informações úteis para apoiar a tomada de decisões baseada em evidências.
 
 Os resultados demonstram que a utilização de técnicas de análise de dados pode contribuir para o planejamento de políticas públicas, distribuição de recursos e definição de estratégias de prevenção da doença.
 
