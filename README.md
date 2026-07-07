@@ -1,4 +1,22 @@
+## Fonte dos Dados
+
+Os dados utilizados neste projeto foram obtidos na plataforma Kaggle.
+
+**Nome do conjunto de dados:** DENGUE BRASIL
+
+**Autor:** AI_ML_TSF
+
+**Plataforma:** Kaggle
+
+**Período dos dados:** janeiro de 2000 a dezembro de 2019, com registros mensais de casos de dengue para os estados brasileiros.
+
+**Arquivo utilizado:** `dengue_brazil.csv`
+
+**Link da base de dados:** https://www.kaggle.com/datasets/ai-ml-tsf/dengue-brasil
+
 # 📊 Análise da Dengue no Brasil
+
+
 
 ## 📌 Problema
 A dengue é uma das principais doenças transmitidas por mosquitos no Brasil. Este projeto tem como objetivo analisar a distribuição dos casos ao longo do tempo e entre os estados brasileiros.
